@@ -1,0 +1,10 @@
+.head {
+  font-size: 18px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: deeppink;
+}
+.about {
+  font-size: 25px;
+  color: blue;
+  display: grid;
+}
